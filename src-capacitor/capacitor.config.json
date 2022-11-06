@@ -1,0 +1,7 @@
+{
+  "appId": "org.guartec.jogodavelha",
+  "appName": "Jogo da Velha",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

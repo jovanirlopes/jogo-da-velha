@@ -1,0 +1,12 @@
+{
+  "name": "jodo-da-velha",
+  "version": "0.0.1",
+  "description": "Jogo da velha",
+  "author": "Jovanir Mateus de Almeida Lopes <jovanir.lopes@outlook.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
